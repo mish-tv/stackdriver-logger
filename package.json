@@ -1,5 +1,5 @@
 {
-  "name": "@mish-tv/${packageName}",
+  "name": "@mish-tv/stackdriver-logger",
   "version": "0.0.1",
   "description": "",
   "main": "lib/cjs/index.js",
@@ -14,14 +14,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mish-tv/${packageName}.git"
+    "url": "git+https://github.com/mish-tv/stackdriver-logger.git"
   },
   "author": "Koji Murata",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/mish-tv/${packageName}/issues"
+    "url": "https://github.com/mish-tv/stackdriver-logger/issues"
   },
-  "homepage": "https://github.com/mish-tv/${packageName}#readme",
+  "homepage": "https://github.com/mish-tv/stackdriver-logger#readme",
   "devDependencies": {
     "@types/jest": "^27.0.1",
     "@types/jest-plugin-context": "^2.9.4",
